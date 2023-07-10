@@ -1,0 +1,46 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* Head Section */
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-conatiner{
+    margin-left: 240px;
+    margin-top: 100px;
+}
+
+.head-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.head-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;}
+
+
+.btn-primary{
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+
+}
+
+.head-photo {
+    margin-top: 50px;
+    margin-right: 230px;
+    
+}

@@ -44,3 +44,11 @@
     margin-right: 230px;
     
 }
+/* Offer section */
+.offer-container{
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    border-radius: 8px;
+    width: 100%;
+    align-items: center;
+}

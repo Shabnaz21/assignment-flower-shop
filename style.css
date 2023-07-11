@@ -60,6 +60,73 @@
 main section{
     margin-bottom: 128px;
 }
+
+/* Our Featured Flowers */
+
+.feature-flower{
+    margin-top: 178px;
+}
+.feature-container{
+    display: flex;
+    margin:0 240px;
+    gap: 24px;
+}
+
+.feature-image img{
+    border-radius: 300px 300px 0px 0px;
+    width: 310px;
+    height: 428px;
+    padding: 50px;
+    padding-bottom: 0;
+}
+
+.image-01{
+    background-color:#A7216226;
+
+}
+
+.image-02{
+    background-color: #0597A026;
+
+}
+
+.image-03{
+    background-color: #477D1126;
+
+}
+
+.feature-image{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+
+/* About Section */
+.about-container{
+    display: flex;
+    border-radius: 8px;
+    background-color: #2727270D;
+    margin: 0 280px;
+    height: 320px;
+    padding-top: 86px;
+    text-align: center;
+}
+
+.service{
+    justify-content: space-between;
+    
+}
+.service-paragraph{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    
+}
 /* Offer section */
 .offer{
     background-color: rgba(229, 84, 115, 0.05);

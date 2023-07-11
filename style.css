@@ -64,9 +64,7 @@ main section{
 .offer{
     background-color: rgba(229, 84, 115, 0.05);
     border-radius: 8px;
-    width: 100%;
-    
-    
+    width: 100%; 
    
 }
 .offer-container{
@@ -115,7 +113,7 @@ span{
     background-repeat: no-repeat;
     width: 1440px;
     height: 449px;
-    margin: 0 240px; 
+    margin: 0 200px; 
     padding-top: 90px;
     
 }

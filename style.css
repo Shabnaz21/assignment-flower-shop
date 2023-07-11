@@ -53,8 +53,7 @@
 }
 
 .head-photo {
-    margin-top: 50px;
-    margin-right: 230px;
+    margin: 50px 230px 0 0;
     
 }
 main section{
@@ -66,16 +65,17 @@ main section{
 .feature-flower{
     margin-top: 178px;
 }
+
 .feature-container{
     display: flex;
     margin:0 240px;
-    gap: 24px;
+    gap: 28px;
 }
 
 .feature-image img{
     border-radius: 300px 300px 0px 0px;
-    width: 310px;
-    height: 428px;
+    width: 350px;
+    height: 478px;
     padding: 50px;
     padding-bottom: 0;
 }
@@ -100,31 +100,32 @@ main section{
     text-align: center;
     font-size: 24px;
     font-weight: 700;
-    line-height: 35px;
     text-decoration-line: underline;
 }
 
 
 /* About Section */
 .about-container{
-    display: flex;
     border-radius: 8px;
     background-color: #2727270D;
-    margin: 0 280px;
-    height: 320px;
+    margin: 0 240px;
     padding-top: 86px;
     text-align: center;
 }
 
-.service{
-    justify-content: space-between;
-    
+.service-content{
+    display: flex;
+    justify-content:center;
+    gap: 100px;
+
 }
+
 .service-paragraph{
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
     font-size: 24px;
     font-weight: 600;
+    padding-bottom: 87px;
     
 }
 /* Offer section */
